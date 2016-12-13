@@ -1,0 +1,1 @@
+FROM necoergosum/slackbot:latest
